@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-https://www.codewars.com/users/harerakalex/badges/large
+![Codewars](https://www.codewars.com/users/harerakalex/badges/large)
 
 
 <!--
