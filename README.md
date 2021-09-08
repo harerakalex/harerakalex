@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello World 👋
+
+[Codewars](https://www.codewars.com/users/harerakalex/badges/large)
+
 
 <!--
 **harerakalex/harerakalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
